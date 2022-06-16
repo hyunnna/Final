@@ -23,7 +23,7 @@
 
 공이 언덕을 내려가는 그림으로 알고리즘에 대한 이해를 도울수 있다.
 
-<img src="ball.png./image.png", height="100x", width="100px">
+<img src="ball.png", height="100x", width="100px">
 
 <br />
 

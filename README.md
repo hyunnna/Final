@@ -1,7 +1,5 @@
 <img src="https://img.shields.io/badge/Hyunnna-01FF95?style=flat-square&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=Java&logoColor=white"/>
 
-# **<span style="color: CornFlowerBlue"> [Alogrithm] 최적화 알고리즘 구현 : 모의담금질 알고리즘 </span>**
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=[Alogrithm]%20모의담금질%20알고리즘&fontSize=40&fontColor=ffffff)
 <br />
 

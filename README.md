@@ -18,6 +18,10 @@
 
 <br />
 
+<br />
+
+<br />
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본동작방식&fontSize=20&fontColor=ffffff)
 
 ***
@@ -45,6 +49,9 @@
 
 <br />
 
+<br />
+
+<br />
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=최적화과정분석&fontSize=20&fontColor=ffffff)
 
@@ -53,8 +60,9 @@
 최적화되는 과정에서 에러가 감소하는 경향 표현
 
 
+<br />
 
-
+<br />
 
 <br />
 

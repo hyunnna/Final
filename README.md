@@ -30,11 +30,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본동작방식&fontSize=20&fontColor=ffffff)
 
-공이 언덕을 내려가는 그림으로 알고리즘에 대한 이해를 도울수 있다.
-
 <img width="594" alt="ball" src="https://user-images.githubusercontent.com/62924325/173975942-bc44a2d5-4e9d-4b37-b3ea-2539f20ebb42.png">
 
 <br />
+   공이 언덕을 내려가는 그림으로 알고리즘에 대한 이해를 도울수 있다.
 
    start 위치에서 공을 굴리면 공은 **지역 최솟값 (Local Minima)** 에 빠진다. 하지만 **최적해는 공이 전역 최솟값 (Global Minima) 에 도달하는 것이다.** 하지만 언덕에서 공은 **현재 위치보다 높은 곳으로 이동하지 않는다.**
 

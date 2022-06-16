@@ -32,7 +32,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본동작방식&fontSize=20&fontColor=ffffff)
 
-물리학에서 에너지 수준이 가장 낮은 상태를 얻기 위해서 어널링 과정을 최적화 문제에 적용한 담금질의 기본 형태는 다음과 같다.
+물리학에서 에너지 수준이 가장 낮은 상태를 얻기 위해서 어널링 과정을 최적화 문제에 적용한 담금질의 기본 동작 방식은 다음과 같다.
 
 ![image](https://user-images.githubusercontent.com/62924325/173999368-f4fd3c11-0890-4e05-880a-437a77a25240.png)
 
@@ -57,15 +57,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=최적화과정분석&fontSize=20&fontColor=ffffff)
 
-<br />
-
 * **초기해 표현** <br />
    초기해는 random 변수를 사용하여 선정한다.
    
 * **초기온도 , 내부루프 길이 결정** <br />
     초기온도는 내부루프의  
     
-    <br />
     
 ```java
 begin
@@ -98,7 +95,7 @@ end
 
 <br />
 
-* **비교값** 
+   * **비교값** 
 
    ||내용|명|명|명|명|
    |:--------:|:---:|:---:|:---:|:---:|:---:|

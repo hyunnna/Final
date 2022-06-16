@@ -58,7 +58,8 @@
 
 
 <br />
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=LOGIC&fontSize=20&fontColor=ffffff)
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=LOGIC&fontSize=20&fontColor=ffffff)
 
 ## **<span style="color: CornFlowerBlue"> LOGIC </span>**
 

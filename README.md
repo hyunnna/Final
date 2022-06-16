@@ -2,7 +2,7 @@
 
 # **<span style="color: CornFlowerBlue"> [Alogrithm] 최적화 알고리즘 구현 : 모의담금질 알고리즘 </span>**
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=**모의담금질%20알고리즘**&fontSize=40&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=모의담금질%20알고리즘&fontSize=40&fontColor=ffffff)
 <br />
 
 *  **<span style="color: MidnightBlue"> 회귀분석(Regression test) </span>** : 독립변인이 종속변인에 영향을 미치는지 알아보고자 할 때 실시하는 분석방법 

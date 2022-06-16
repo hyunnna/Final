@@ -103,11 +103,17 @@ end
 <br />
 <br />
 <br />
+
 ![github](https://user-images.githubusercontent.com/62924325/173976861-b2a84a51-57f4-4c38-b902-0ebe54aac9a7.svg)
 
+<br />
 
 <img src="https://img.shields.io/badge/Hyunnna-FFBCD9?style=flat-square&logo=hyunnna&logoColor=white"/>
 
+<br />
+
+ <a href="[링크](https://github.com/hyunnna)"><img src="https://img.shields.io/badge/Hyunnna-FFBCD9?style=flat-square&logo=hyunnna&logoColor=white"/></a>
+ 
 <br />
 
 ***

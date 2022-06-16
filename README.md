@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Hyunnna-0067A3?style=flat-square&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyunnna-01FF95?style=flat-square&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=Java&logoColor=white"/>
 
 # **<span style="color: CornFlowerBlue"> [Alogrithm] 최적화 알고리즘 구현 : 모의담금질 알고리즘 </span>**
 

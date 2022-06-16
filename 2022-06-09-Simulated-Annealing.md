@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Hyunnna-FFBCD9?style=flat-square&logo=hyunnna&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyunnna-FFBCD9?style=flat-square&logo=Github&logoColor=white"/>
 
 
 # **<span style="color: CornFlowerBlue"> [Alogrithm] 최적화 알고리즘 구현 : 모의담금질 알고리즘 </span>**

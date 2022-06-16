@@ -17,7 +17,8 @@
 * 계속해서 좋은 방향으로 움직이는 특징을 갖고있고 처음에는 좋지 않은 해답으로 시작할 수 있지만 점차 마지막에 다다러서는 좋은 해답을 선택하는 점이 Greedy 알고리즘과 닮아있다.
 
 <br />
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본 동작 방식&fontSize=20&fontColor=ffffff)
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본동작방식&fontSize=20&fontColor=ffffff)
 
 ## **<span style="color: CornFlowerBlue"> 기본 동작 방식 </span>**
 

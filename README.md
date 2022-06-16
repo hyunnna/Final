@@ -20,8 +20,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본동작방식&fontSize=20&fontColor=ffffff)
 
-## **<span style="color: CornFlowerBlue"> 기본 동작 방식 </span>**
-
 ***
 
 공이 언덕을 내려가는 그림으로 알고리즘에 대한 이해를 도울수 있다.
@@ -47,7 +45,8 @@
 
 <br />
 
-## **<span style="color: CornFlowerBlue"> 최적화 과정 분석 </span>**
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=최적화과정분석&fontSize=20&fontColor=ffffff)
 
 <br />
 
@@ -59,9 +58,7 @@
 
 <br />
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=LOGIC&fontSize=20&fontColor=ffffff)
-
-## **<span style="color: CornFlowerBlue"> LOGIC </span>**
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=LOGIC&fontSize=20&fontColor=ffffff)
 
 ***
 
@@ -93,18 +90,6 @@ end
 ```
 
 <br />
-
-## **<span style="color: CornFlowerBlue"> CODE </span>**
-
-***
-```java
-
-```
-
-
-
-<br />
-
 
 <br />
 

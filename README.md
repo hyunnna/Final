@@ -1,15 +1,24 @@
+ <div align=right>
 <img src="https://img.shields.io/badge/Hyunnna-01FF95?style=flat-square&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=Java&logoColor=white"/>
-
+ 
+   </div>
+   
+ <div align=center>
 <br />
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=[Alogrithm]%20모의담금질%20알고리즘&fontSize=40&fontColor=ffffff)
+   </div>
 
 <br />
 
 **높은 온도에서 액체 상태인 물질이 온도가 낮아지며 결정체로 변하는 과정을 모방해 simulated annealing으로 최적해를 찾아 빠른 탐색 시간내에 문제를 해결하는 방법**
 
+<div align=center>
+
 <img width="594" alt="ball" src="https://user-images.githubusercontent.com/62924325/173975942-bc44a2d5-4e9d-4b37-b3ea-2539f20ebb42.png">
 
+   </div>
+   
 <br />    
 
    공이 언덕을 내려가는 그림으로 알고리즘에 대한 이해를 도울수 있다.
@@ -81,8 +90,12 @@
 
 <br />
 
+   <div align=center>
+   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=기본동작방식&fontSize=20&fontColor=ffffff)
 
+   </div>
+   
 <br />
 
 ~~~Java
@@ -137,22 +150,36 @@ end
 <br />
 
 <br />
-
+   
+<div align=center>
+   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=최적화과정분석&fontSize=20&fontColor=ffffff)
 
 <br />
-
+   
+  **실험결과**  <br />
+   
+|temperature(*C)|50|70|100|150|200|
+|:--------:|:---:|:---:|:---:|:---:|:---:|
+|초기 값|0.433|0.406|0.379|0.368|0.362|
+|loop length|50|70|100|150|200|
+|결과 값|0.454|0.410|0.367|0.364|0.358|
+   
+  </div>
+   
+   <br />
+   
+   loop length (내부루프의 길이)는 주어진 온도에서 안정상태가 결과 값이 될때 까지의 반복횟수이며 반복횟수로 수렴성의 보장과 효율적 해의 계산을 위해서는 길이를 늘이는 것보다 온도의 떨어지는 폭을 줄이는 것이 더 해를 구하는데 효과적이다.     
+   
 <br />
+   
+   <div align=center>
+      
+   <img width="500" alt="KakaoTalk_20220617_204732980" src="https://user-images.githubusercontent.com/62924325/174292528-ad00b908-da45-466e-aabf-000c6660c04c.png">
 
-   * **실험결과** 
-
-      ||temp|S|p|q|result|
-      |:--------:|:---:|:---:|:---:|:---:|:---:|
-      |**Case 1**|테스트2|테스트3|명|명|명|
-      |**Case 2**|테스트2|테스트3|명|명|명|
-      |**Case 3**|테스트2|테스트3|명|명|명|
-
-<br />
+</div>
+   
+   유전자 알고리즘과 비교했을 경우 긴 수행시간을 잡아 효율성이 떨어지는 반면 담금질 알고리즘은 빠른 탐색시간내에 더 효율적으로 해를 찾는다는 것을 알 수 있다. 
 
 <br />
 
